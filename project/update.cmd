@@ -1,4 +1,3 @@
 cd ..
-git add
-git fetch
+git pull
 timeout /t 10
